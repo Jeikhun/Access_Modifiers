@@ -1,0 +1,16 @@
+C:\Users\GF65\source\repos\Access_Modifiers_2\Access_Modifiers_2\bin\Debug\net5.0\Access_Modifiers_2.exe
+C:\Users\GF65\source\repos\Access_Modifiers_2\Access_Modifiers_2\bin\Debug\net5.0\Access_Modifiers_2.deps.json
+C:\Users\GF65\source\repos\Access_Modifiers_2\Access_Modifiers_2\bin\Debug\net5.0\Access_Modifiers_2.runtimeconfig.json
+C:\Users\GF65\source\repos\Access_Modifiers_2\Access_Modifiers_2\bin\Debug\net5.0\Access_Modifiers_2.runtimeconfig.dev.json
+C:\Users\GF65\source\repos\Access_Modifiers_2\Access_Modifiers_2\bin\Debug\net5.0\Access_Modifiers_2.dll
+C:\Users\GF65\source\repos\Access_Modifiers_2\Access_Modifiers_2\bin\Debug\net5.0\Access_Modifiers_2.pdb
+C:\Users\GF65\source\repos\Access_Modifiers_2\Access_Modifiers_2\obj\Debug\net5.0\Access_Modifiers_2.csproj.AssemblyReference.cache
+C:\Users\GF65\source\repos\Access_Modifiers_2\Access_Modifiers_2\obj\Debug\net5.0\Access_Modifiers_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GF65\source\repos\Access_Modifiers_2\Access_Modifiers_2\obj\Debug\net5.0\Access_Modifiers_2.AssemblyInfoInputs.cache
+C:\Users\GF65\source\repos\Access_Modifiers_2\Access_Modifiers_2\obj\Debug\net5.0\Access_Modifiers_2.AssemblyInfo.cs
+C:\Users\GF65\source\repos\Access_Modifiers_2\Access_Modifiers_2\obj\Debug\net5.0\Access_Modifiers_2.csproj.CoreCompileInputs.cache
+C:\Users\GF65\source\repos\Access_Modifiers_2\Access_Modifiers_2\obj\Debug\net5.0\Access_Modifiers_2.dll
+C:\Users\GF65\source\repos\Access_Modifiers_2\Access_Modifiers_2\obj\Debug\net5.0\refint\Access_Modifiers_2.dll
+C:\Users\GF65\source\repos\Access_Modifiers_2\Access_Modifiers_2\obj\Debug\net5.0\Access_Modifiers_2.pdb
+C:\Users\GF65\source\repos\Access_Modifiers_2\Access_Modifiers_2\obj\Debug\net5.0\Access_Modifiers_2.genruntimeconfig.cache
+C:\Users\GF65\source\repos\Access_Modifiers_2\Access_Modifiers_2\obj\Debug\net5.0\ref\Access_Modifiers_2.dll
